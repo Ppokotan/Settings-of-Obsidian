@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "5f9bea39cbb4ab87",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ad99497fd737718",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "504aa03217cd9da3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "770e6add3d9c4133",
+    "type": "split",
+    "children": [
+      {
+        "id": "aadcd9d904553d03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76cd07e32794f9ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "3b611bdf2ed9a799",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f0751cbaf28c3ed1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303.5
+  },
+  "right": {
+    "id": "2fecafaa6659f06a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c27c77dcb0a36001",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fdf8fbc631f29dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Character_files/澄泓的人物设定表.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "澄泓的人物设定表 的反向链接列表"
+            }
+          },
+          {
+            "id": "8a30eb127db0a20d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "bb0f52b11d698903",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "4adf1a1732c528b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "挂起修改/晴飔的能力_AI整理稿.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "晴飔的能力_AI整理稿 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "76cd07e32794f9ca",
+  "lastOpenFiles": [
+    "挂起修改/晴飔的能力_修改稿人类消化_预计最终稿.md",
+    "挂起修改/晴飔的能力_AI整理稿.md",
+    "挂起修改/晴飔的能力_修改前原稿.md",
+    "Character_files/音译人物名表.md",
+    "挂起修改",
+    "Character_files/创作声明.md",
+    "Character_files/通常人物姓名.md",
+    "Character_files/澄泓的人物设定表.md",
+    "Settings/晴飔的能力.md",
+    "Settings/地域设定.md",
+    "Settings/一笺千语.md",
+    "Plot_design/80号 vs 79号 核心情节设计.md",
+    "Character_files/晴飔的人物设定表.md",
+    "Complete｜80号 vs 79号 核心情节设计｜Cc.04.assets/已移除背景的MX2D3.png.md",
+    "Complete｜80号 vs 79号 核心情节设计｜Cc.04.assets",
+    "未命名.canvas",
+    "obsidian-style-settings/styles.css",
+    "obsidian-style-settings/manifest.json",
+    "obsidian-style-settings/main.js",
+    "obsidian-style-settings",
+    "澄泓的人物设定表.md",
+    "Character_files/澄泓的人物设定表｜Inside Only！｜WIP｜Ac.04.md",
+    "澄泓的人物设定表｜Inside Only！｜WIP｜Ac.04.md"
+  ]
+}
